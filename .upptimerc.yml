@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: By.com.vn
     url: https://by.com.vn
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Go2By
+    url: https://g2.by
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
